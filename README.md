@@ -1,2 +1,2 @@
-# An Analytical approach for Weather Data for GHI
+# An Analytical approach to Weather Database
 Readme Construction in Progress....
