@@ -17,8 +17,36 @@ The data are considered "typical" because the entirety of the original solar rad
 
 </br></br>
 
+### ◘ Objective
+The primary incentive of this research is to:
+* Analyze the integrity of the dataset, and check for missing values, duplicated values, and so forth.
+* Perform various clean-ups, if required, and improve accessibility for more convenient exploratory analysis.
+* Conduct exploratory analysis using a myriad of analysis and graphing tools to reach a conclusion.
+* To reach a proper decision on which model to apply to the processed dataset in a future project to achieve the ideal optimization tuning and hopefully, a better outcome in the model's generalization.
+
+</br></br>
+
+### ◘ Approach
+This research is classified into 2 steps:
+1. Data Preprocessing: Where the dataset is extracted, tested, cleaned, processed, and stored in memory.
+2. Feature Exploration: Where the processed data is then explored thoroughly to acquire a viable insight.
+
+</br></br>
+
+### ◘ Methodologies & Technologies applied
+* Resolve and Diagnose structural errors
+* Check and Clean data
+* Address duplicates & outliers
+* Logical feature amalgamation to construct a unique variable
+* Univariate inspection
+* Bivariate inspection
+* Feature correlations
+* Seaborn & Matplotplib visualizations
+
+</br></br>
 
 
 
-Readme Construction in Progress....
+
+### Readme Construction is still in Progress...
 ===========================================================================
