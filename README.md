@@ -56,6 +56,42 @@ This research is classified into 2 steps:
 * matplotlib~=3.7.0
 * numpy~=1.23.5
 
+</br></br>
+
+### ◘ Jupyter core packages
+* IPython : 8.10.0
+* ipykernel : 6.19.2
+* ipywidgets : 7.6.5
+* jupyter_client : 7.3.4
+* jupyter_core : 5.2.0
+* jupyter_server : 1.23.4
+* jupyterlab : 3.5.3
+
+</br></br>
+
+### ◘ Project Organization
+------------
+    ├── LICENSE
+    │
+    ├── README.md          # The top-level README for developers using this project.
+    │
+    ├── dataset
+    │   └── processed      # The final, canonical data sets for modeling.
+    │   └── raw            # The original, immutable data dump.
+    │
+    │
+    ├── notebook           # Jupyter notebook for EDA
+    │                         		
+    │
+    ├── graphs            # Generated graphics and figures to be used in reporting using Jupyter Notebooks
+    |
+    │
+    ├── img              # Project related files
+    │
+    ├── requirements.txt    # The requirements file for reproducing the analysis environment, e.g.
+                              generated with `pip freeze > requirements.txt`
+
+--------
 
 
 ### Readme Construction is still in Progress...
