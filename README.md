@@ -4,6 +4,8 @@ The National Solar Radiation Database (NSRDB) is a serially complete collection 
 
 It covers the United States and a growing subset of international locations. These data have been collected at a sufficient number of locations and temporal and spatial scales to accurately represent regional solar radiation climates. For a given location covered by the dataset, it is possible to see the amount of solar energy that was at a given time and to predict the potential future availability of solar energy based on past conditions.
 
+![alt text](https://github.com/shahriar-rahman/Analytics-NSRDB-Meteorological-Data/blob/main/img/nsrdb_img1.jpg)
+
 ### ◘ Introduction
 Typical Meteorological Year (TMY) is a widely used type of data available through the NSRDB. TMYs contain one year of hourly data that best represents median weather conditions over a multiyear period.
 
