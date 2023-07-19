@@ -49,6 +49,12 @@ This research is classified into 2 steps:
 
 </br></br>
 
+### ◘ Required Libraries
+* pandas~=2.0.3
+* missingno~=0.5.2
+* seaborn~=0.12.2
+* matplotlib~=3.7.0
+* numpy~=1.23.5
 
 
 
