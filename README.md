@@ -33,6 +33,10 @@ This research is classified into 2 steps:
 
 </br></br>
 
+![alt text](https://github.com/shahriar-rahman/Analytics-NSRDB-Meteorological-Data/blob/main/img/FlowChart.png)
+
+</br></br>
+
 ### ◘ Methodologies & Technologies applied
 * Resolve and Diagnose structural errors
 * Check and Clean data
