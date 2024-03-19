@@ -19,7 +19,7 @@ The data are considered "typical" because the entirety of the original solar rad
 
 ### ◘ Objective
 The primary incentive of this research is to:
-* Analyze the integrity of the dataset, and check for missing values, duplicated values, and so forth.  
+* Analyze the integrity of the dataset, and check for missing values, duplicated values, and so forth. 
 * Perform various clean-ups, if required, and improve accessibility for more convenient exploratory analysis.
 * Conduct exploratory analysis using a myriad of analysis and graphing tools to reach a conclusion.
 * To reach a proper decision on which model to apply to the processed dataset in a future project to achieve the ideal optimization tuning and hopefully, a better outcome in the model's generalization.
