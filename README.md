@@ -24,12 +24,12 @@ The primary incentive of this research is to:
 * Conduct exploratory analysis using a myriad of analysis and graphing tools to reach a conclusion.
 * To reach a proper decision on which model to apply to the processed dataset in a future project to achieve the ideal optimization tuning and hopefully, a better outcome in the model's generalization.
 
-</br></br>
+</br></br> 
 
 ### ◘ Approach
 This research is classified into 2 steps:
 1. Data Preprocessing: Where the dataset is extracted, tested, cleaned, processed, and stored in memory.  
-2. Feature Exploration: Where the processed data is then explored thoroughly to acquire a viable insight.  
+2. Feature Exploration: Where the processed data is then explored thoroughly to acquire a viable insight.   
 
 </br></br>
 
