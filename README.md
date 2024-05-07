@@ -28,8 +28,8 @@ The primary incentive of this research is to:
 
 ### ◘ Approach
 This research is classified into 2 steps:
-1. Data Preprocessing: Where the dataset is extracted, tested, cleaned, processed, and stored in memory.  
-2. Feature Exploration: Where the processed data is then explored thoroughly to acquire a viable insight.   
+1. Data Preprocessing: Where the dataset is extracted, tested, cleaned, processed, and stored in memory.   
+2. Feature Exploration: Where the processed data is then explored thoroughly to acquire a viable insight.    
 
 </br></br>
 
